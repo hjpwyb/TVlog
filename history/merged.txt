@@ -11596,6 +11596,7 @@ CGTN,http://14.155.192.234:8088/hls/18/index.m3u8
 深圳电视剧,http://14.155.192.234:8088/hls/21/index.m3u8
 深圳少儿,http://14.155.192.234:8088/hls/25/index.m3u8
 深圳公共,http://14.155.192.234:8088/hls/26/index.m3u8
+济南生活,http://111.14.222.117:3333/hls/19/index.m3u8
 CETV1,http://live1.hrtn.net/live/zgjy1hd_3000.m3u8?auth_key=1761224996-aa58415771c82ebe63a47bf1eb0de57c-0-5d8e8d5b019187b8d7ecfcfb74b59058
 CETV4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761224996-a9bb5996bfaa7ca6d23c49b2062aa141-0-ee5f5506bd8c79061c0e1f28fea05e3d
 BRTV,http://live1.hrtn.net/live/dajs_1000.m3u8?auth_key=1761224996-a925964ebf892eff4bf88efed6cf4050-0-9f272c555f078da852093877617a3e40
