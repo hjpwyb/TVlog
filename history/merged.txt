@@ -17102,6 +17102,15 @@ CCTV-少儿,http://113.205.193.154:8082/hls/14/index.m3u8
 CCTV-音乐,http://113.205.193.154:8082/hls/15/index.m3u8
 CCTV-NEWS,http://113.205.193.154:8082/hls/16/index.m3u8
 卡酷动画,http://113.205.193.154:8082/hls/49/index.m3u8
+CCTV-1 综合,http://218.19.109.185:808/hls/1/index.m3u8
+CCTV-2 财经,http://218.19.109.185:808/hls/2/index.m3u8
+CCTV-4 中文国际,http://218.19.109.185:808/hls/3/index.m3u8
+CCTV-5+ 体育赛事,http://218.19.109.185:808/hls/31/index.m3u8
+CCTV-9 纪录,http://218.19.109.185:808/hls/5/index.m3u8
+北京卫视,http://218.19.109.185:808/hls/11/index.m3u8
+山东卫视,http://218.19.109.185:808/hls/15/index.m3u8
+湖北卫视,http://218.19.109.185:808/hls/14/index.m3u8
+黑龙江卫视,http://218.19.109.185:808/hls/16/index.m3u8
 CCTV-1 综合,http://42.237.156.68:8888/hls/1/index.m3u8
 CCTV-1 综合,http://42.227.88.182:8888/hls/1/index.m3u8
 CCTV-2 财经,http://42.237.156.68:8888/hls/2/index.m3u8
